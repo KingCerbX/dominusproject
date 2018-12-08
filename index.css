@@ -21,4 +21,7 @@ letter-spacing: 1px;
     background: black;
     color: white;
     position:relative; left: 230px;
+    position:relative; bottom: 9px;
+    height: 45px;
+    width: 134px
 }
